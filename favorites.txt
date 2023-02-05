@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 Chicken Alfredo
 Shawarma
 Norin
 Meat Tortellini
+=======
+Bolt 
+Boss Baby
+Breadwinner
+>>>>>>> movies
